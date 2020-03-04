@@ -1,10 +1,10 @@
-# docker-flask-heroku
+# This is a simple flask application dockerized to start deploying docker images on heroku
 
-##clonning in
+## Clonning in
 clone the repository on your computer
 make your alterations
 
-## deploying alterations
+## Deploying alterations
 log in into heroku container system
 
 make heroku container:push web --app docker-flask-basic
